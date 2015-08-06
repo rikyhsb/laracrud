@@ -15,3 +15,6 @@ composer update
 cd C://xampp/htdocs/laracrud
 composer update
 ```
+
+# Konfigurasi
+Buat database dengan nama 'laracrud' lalu import file laracrud.sql. Jangan lupa untuk mengubah konfigurasi database di /app/config/database.php
